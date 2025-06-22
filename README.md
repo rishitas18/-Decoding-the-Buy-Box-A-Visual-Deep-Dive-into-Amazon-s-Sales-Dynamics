@@ -1,4 +1,4 @@
-# -Decoding-the-Buy-Box-A-Visual-Deep-Dive-into-Amazon-s-Sales-Dynamics
+# -Decoding the Buy Box-A Visual Deep-Dive into Amazon's Sales Dynamics
 An interactive Power BI dashboard analyzing regional trends, profit margins, and category-level performance to drive actionable insights in Amazon's retail operations.
 
 
